@@ -20,9 +20,7 @@ section {
     justify-content: center;
     width: 600px;
     height: 600px;
-    transition-duration: 1s;
     cursor: pointer;
-    background-color: white;
     overflow: hidden;
 }
 
@@ -58,7 +56,7 @@ p {
 }
 
 section:hover img {
-    transform: scale(1.2) rotate(30deg);
+    transform: scale(1.3) rotate(25deg);
 }
 
 section:hover .text h1 {
